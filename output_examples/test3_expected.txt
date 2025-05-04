@@ -1,0 +1,46 @@
+08:00
+07:30 1 alice
+07:30 13 NotOpenYet
+08:00 1 bob
+08:02 1 bob
+08:02 13 YouShallNotPass
+08:10 2 bob 1
+08:20 2 bob 1
+08:20 13 PlaceIsBusy
+08:40 2 bob 2
+08:50 1 charlie
+08:50 3 charlie
+08:50 13 ICanWaitNoLonger!
+09:00 2 charlie 1
+09:10 1 ashley
+09:15 2 ashley 3
+09:20 1 alex
+09:20 2 alex 4
+09:30 1 oliver
+09:31 3 oliver
+09:32 1 harry
+09:33 3 harry
+09:34 1 emily
+09:35 3 emily
+09:36 1 lily
+09:37 3 lily
+09:38 1 james
+09:39 3 james
+09:39 11 james
+09:40 4 bob
+09:40 12 oliver 2
+09:50 4 charlie
+09:50 12 harry 1
+10:00 4 ashley
+10:00 12 emily 3
+10:10 4 alex
+10:10 12 lily 4
+10:20 4 oliver
+10:30 4 harry
+10:40 4 emily
+20:00 11 lily
+20:00
+1 60 02:00
+2 40 01:40
+3 40 01:25
+4 220 10:40

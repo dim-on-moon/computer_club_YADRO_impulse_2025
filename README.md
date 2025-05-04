@@ -1,0 +1,1 @@
+# computer_club_YADRO_impulse_2025

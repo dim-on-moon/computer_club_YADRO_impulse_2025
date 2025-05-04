@@ -1,0 +1,26 @@
+09:00
+08:30 1 alice
+08:30 13 NotOpenYet
+09:01 1 alice
+09:02 1 alice
+09:02 13 YouShallNotPass
+09:05 2 alice 1
+09:10 1 bob
+09:11 2 bob 1
+09:11 13 PlaceIsBusy
+09:15 2 charlie 2
+09:15 13 ClientUnknown
+09:17 3 bob
+09:17 13 ICanWaitNoLonger!
+09:18 2 bob 2
+10:00 4 alice
+10:30 4 bob
+10:45 1 charlie
+10:46 2 charlie 2
+11:20 4 charlie
+17:50 1 dave
+18:00 11 dave
+18:00
+1 10 00:55
+2 30 01:46
+3 0 00:00
